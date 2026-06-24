@@ -2,8 +2,7 @@
 
 Uma *skill* para o Claude que conduz qualquer pessoa pelos primeiros meses numa posição nova — seja empresa, cargo, área ou função.
 
-Ela nasceu de uma experiência real: a minha. Quando entrei numa empresa de quase 40 anos, com várias aquisições e tudo mudando ao mesmo tempo, minha vontade era começar a fazer. Mas quem chega resolvendo antes de entender resolve o problema errado. Com muita energia.
-
+Ela nasceu de uma experiência real: a minha. Quando entrei numa empresa nova, minha vontade era começar a fazer. Mas quem chega resolvendo antes de entender resolve o problema errado. 
 Então fiz diferente. Em vez de agir, escutei. E transformei esse método em algo que outras pessoas podem usar.
 
 ## O que ela faz
